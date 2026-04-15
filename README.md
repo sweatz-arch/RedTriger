@@ -2,7 +2,6 @@
 
 **Advanced Multi-Tool for Pentesting, OSINT, Discord & Roblox**
 
-<img align="center" src="https://i.imgur.com/RedTigerBanner.png" width="100%">
 
 ## About
 
